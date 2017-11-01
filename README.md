@@ -5,3 +5,6 @@
     as I am able to undersatand the version control</p>
     
    <p> The next phase of this testing is to add a bootstrap and customise the document</p>
+   
+ <h2>This is how to create</hr>a new branch to use </h2>
+ 
